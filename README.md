@@ -15,7 +15,10 @@ The output chart categorizes reviews as:
 - Neutralna *(Neutral)*
 - Pozytywna *(Positive)*
 - Bardzo pozytywna *(Very positive)*
-- 
+
+## Result of program
+![plot](Plot.png)
+
 ## 🛠️ Technologies
 - Python
 - NLTK (SentimentIntensityAnalyzer)
